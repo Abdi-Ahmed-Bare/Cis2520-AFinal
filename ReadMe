@@ -1,0 +1,18 @@
+# CIS2520-F24-A4
+
+## Student Information 
+Name : Abdi Bare
+
+Student Number : 1207108
+
+## Assignment Overview
+The purpose of this program is to manage and analyze a graph represented using an adjacency matrix and an adjacency list. It allows users to perform various graph-related operations such as displaying the graph structure, traversing the graph using different algorithms, and finding the shortest path between vertices. The program reads a graph from a file, processes it into suitable data structures, and provides a menu-driven interface for the user to interact with the graph.
+
+
+
+## Resources 
+-Use the lecture algorithm descriptions for the graph algorithms.
+-used Youtube Tutorials to explore some explore some concepts
+
+## Implementation
+This Assignment is complete and handles all the requirements
